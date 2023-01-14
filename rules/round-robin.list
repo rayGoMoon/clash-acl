@@ -1,6 +1,6 @@
 # 内容：轮转节点规则
 
-# 需要进行反Bot监测的平台
+# 需要进行反 Bot监测的平台
 DOMAIN-KEYWORD,opensea
 DOMAIN-SUFFIX,lexica.art
 
