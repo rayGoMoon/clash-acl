@@ -26,3 +26,5 @@ DOMAIN-SUFFIX,brave.com
 # CDN 网络
 DOMAIN-KEYWORD,cloudflare
 DOMAIN-KEYWORD,herokucdn
+
+DOMAIN-SUFFIX,workers.dev
