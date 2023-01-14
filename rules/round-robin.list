@@ -10,14 +10,19 @@ DOMAIN-KEYWORD,pinata
 
 
 # Web3 GateWay
-DOMAIN-SUFFIX,etherscan.io
-DOMAIN-SUFFIX,infura.io
-DOMAIN-SUFFIX,g.alchemy.com
-DOMAIN-SUFFIX,gateway.pokt.network
-DOMAIN-SUFFIX,rpc.ankr.com
+DOMAIN-KEYWORD,etherscan
+DOMAIN-KEYWORD,infura
+DOMAIN-KEYWORD,alchemy
+DOMAIN-KEYWORD,pokt
+DOMAIN-KEYWORD,ankr
+
 DOMAIN-SUFFIX,polygon-rpc.com
+DOMAIN-SUFFIX,avax.network
+DOMAIN-SUFFIX,celo.org
+DOMAIN-SUFFIX,ftm.tools
+
+DOMAIN-SUFFIX,brave.com
 
 # CDN 网络
 DOMAIN-KEYWORD,cloudflare
 DOMAIN-KEYWORD,herokucdn
-
