@@ -1,8 +1,7 @@
 # 内容：轮转节点规则
 
 # 需要进行反 Bot监测的平台
-DOMAIN-KEYWORD,opensea
-DOMAIN-SUFFIX,lexica.art
+DOMAIN-SUFFIX,opensea.io
 
 # IPFS GateWay
 DOMAIN-KEYWORD,ipfs
@@ -11,8 +10,12 @@ DOMAIN-KEYWORD,pinata
 
 
 # Web3 GateWay
-DOMAIN-KEYWORD,infura
-DOMAIN-KEYWORD,ankr
+DOMAIN-SUFFIX,etherscan.io
+DOMAIN-SUFFIX,infura.io
+DOMAIN-SUFFIX,g.alchemy.com
+DOMAIN-SUFFIX,gateway.pokt.network
+DOMAIN-SUFFIX,rpc.ankr.com
+DOMAIN-SUFFIX,polygon-rpc.com
 
 # CDN 网络
 DOMAIN-KEYWORD,cloudflare
