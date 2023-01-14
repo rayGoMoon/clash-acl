@@ -1,0 +1,20 @@
+# 内容：轮转节点规则
+
+# 需要进行反Bot监测的平台
+DOMAIN-KEYWORD,opensea
+DOMAIN-SUFFIX,lexica.art
+
+# IPFS GateWay
+DOMAIN-KEYWORD,ipfs
+DOMAIN-KEYWORD,dweb
+DOMAIN-KEYWORD,pinata
+
+
+# Web3 GateWay
+DOMAIN-KEYWORD,infura
+DOMAIN-KEYWORD,ankr
+
+# CDN 网络
+DOMAIN-KEYWORD,cloudflare
+DOMAIN-KEYWORD,herokucdn
+
