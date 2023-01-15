@@ -18,6 +18,8 @@ DOMAIN-SUFFIX,avax.network
 DOMAIN-SUFFIX,celo.org
 DOMAIN-SUFFIX,ftm.tools
 DOMAIN-SUFFIX,chainstacklabs.com
+DOMAIN-SUFFIX,cryptocompare.com
+DOMAIN-SUFFIX,coingecko.com
 
 DOMAIN-SUFFIX,brave.com
 
@@ -26,3 +28,16 @@ DOMAIN-KEYWORD,cloudflare
 DOMAIN-KEYWORD,herokucdn
 
 DOMAIN-SUFFIX,workers.dev
+
+DOMAIN-SUFFIX,seadn.io
+DOMAIN-SUFFIX,static.opensea.io
+
+DOMAIN-SUFFIX,gstatic.com
+DOMAIN-SUFFIX,googleapis.com
+
+# Google | YouTube CDN
+DOMAIN,youtubei.googleapis.com
+DOMAIN,yt3.ggpht.com
+DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,gvt2.com
+DOMAIN-SUFFIX,ytimg.com
