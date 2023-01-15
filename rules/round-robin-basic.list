@@ -32,11 +32,9 @@ DOMAIN-SUFFIX,workers.dev
 DOMAIN-SUFFIX,seadn.io
 DOMAIN-SUFFIX,static.opensea.io
 
+# Google | YouTube CDN
 DOMAIN-SUFFIX,gstatic.com
 DOMAIN-SUFFIX,googleapis.com
-
-# Google | YouTube CDN
-DOMAIN,youtubei.googleapis.com
 DOMAIN,yt3.ggpht.com
 DOMAIN-SUFFIX,googlevideo.com
 DOMAIN-SUFFIX,gvt2.com
