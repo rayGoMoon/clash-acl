@@ -1,7 +1,4 @@
-# 内容：轮转节点规则
-
-# 需要进行反 Bot监测的平台
-DOMAIN-SUFFIX,opensea.io
+# 内容：使用便宜的大流量包月1倍率节点的规则
 
 # IPFS GateWay
 DOMAIN-KEYWORD,ipfs
