@@ -1,4 +1,4 @@
-# 内容：使用便宜的大流量包月1倍率节点的规则
+# 内容：使用基础高速轮转规则进行分流
 
 # IPFS GateWay
 DOMAIN-KEYWORD,ipfs
@@ -22,12 +22,3 @@ DOMAIN-SUFFIX,cryptocompare.com
 DOMAIN-SUFFIX,coingecko.com
 
 DOMAIN-SUFFIX,brave.com
-
-# CDN 网络
-DOMAIN-KEYWORD,cloudflare
-DOMAIN-KEYWORD,herokucdn
-
-DOMAIN-SUFFIX,workers.dev
-
-DOMAIN-SUFFIX,seadn.io
-DOMAIN-SUFFIX,static.opensea.io

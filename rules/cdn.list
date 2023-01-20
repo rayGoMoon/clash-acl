@@ -1,0 +1,12 @@
+# 内容：使用基础高速轮转规则进行分流
+
+# CDN 网络
+DOMAIN-KEYWORD,cloudflare
+DOMAIN-KEYWORD,herokucdn
+
+DOMAIN-SUFFIX,workers.dev
+
+DOMAIN-SUFFIX,seadn.io
+DOMAIN-SUFFIX,static.opensea.io
+
+DOMAIN-SUFFIX,twimg.com
