@@ -1,3 +1,8 @@
 # 内容：使用基础高速全部节点保证规则进行分流（fallback）
 
 # 除 Google Youtube 平台外的流媒体视频节点
+DOMAIN-SUFFIX,olevod.io
+DOMAIN-SUFFIX,olevod.com
+DOMAIN-SUFFIX,lencr.org
+DOMAIN-SUFFIX,haiwaikan.com
+DOMAIN-SUFFIX,olemovienews.com
