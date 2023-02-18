@@ -2,6 +2,7 @@
 
 # 除 Google Youtube 平台外的流媒体视频节点
 DOMAIN-SUFFIX,olevod.io
+DOMAIN-SUFFIX,olelive.com
 DOMAIN-SUFFIX,olevod.com
 DOMAIN-SUFFIX,lencr.org
 DOMAIN-SUFFIX,haiwaikan.com
