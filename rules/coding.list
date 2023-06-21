@@ -2,5 +2,13 @@ DOMAIN-KEYWORD,github
 
 DOMAIN-SUFFIX,flutterflow.io
 
+# Python
 DOMAIN-SUFFIX,Pypi.org
 DOMAIN-SUFFIX,pythonhosted.org
+
+# vercel
+DOMAIN-SUFFIX,vercel.com
+DOMAIN-SUFFIX,koala.live
+DOMAIN-SUFFIX,getkoala.com
+DOMAIN-SUFFIX,knock.app
+DOMAIN-SUFFIX,ipify.org
