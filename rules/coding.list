@@ -2,6 +2,10 @@ DOMAIN-KEYWORD,github
 
 DOMAIN-SUFFIX,flutterflow.io
 
+# Node JS
+DOMAIN-SUFFIX,nodejs.org
+DOMAIN-SUFFIX,npmjs.com
+
 # Python
 DOMAIN-SUFFIX,Pypi.org
 DOMAIN-SUFFIX,pythonhosted.org

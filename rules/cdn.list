@@ -20,7 +20,7 @@ DOMAIN-SUFFIX,plyr.io
 DOMAIN-SUFFIX,squarespace.com
 DOMAIN-SUFFIX,squarespace-cdn.com
 
-DOMAIN-SUFFIX,weglot.com
+
 
 # Twitter
 IP-CIDR,103.252.112.0/23,no-resolve
