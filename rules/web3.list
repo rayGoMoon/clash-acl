@@ -24,11 +24,11 @@ DOMAIN-SUFFIX,coingecko.com
 DOMAIN-SUFFIX,brave.com
 
 # crypto news
-cryptonews.com
-coindesk.com
-finance.yahoo.com
-reuters.com
-cnbc.com
-cointelegraph.com
-ft.com
-analyticsinsight.net
+DOMAIN-SUFFIX,cryptonews.com
+DOMAIN-SUFFIX,coindesk.com
+DOMAIN-SUFFIX,yahoo.com
+DOMAIN-SUFFIX,reuters.com
+DOMAIN-SUFFIX,cnbc.com
+DOMAIN-SUFFIX,cointelegraph.com
+DOMAIN-SUFFIX,ft.com
+DOMAIN-SUFFIX,analyticsinsight.net
