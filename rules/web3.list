@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,binance.com
 DOMAIN-SUFFIX,rarible.com
 DOMAIN-SUFFIX,looksrare.org
 DOMAIN-SUFFIX,bitfinex.com
+DOMAIN-SUFFIX,coinbase.com
 
 # Web3 GateWay
 DOMAIN-KEYWORD,etherscan
@@ -26,6 +27,19 @@ DOMAIN-SUFFIX,ftm.tools
 DOMAIN-SUFFIX,chainstacklabs.com
 DOMAIN-SUFFIX,cryptocompare.com
 DOMAIN-SUFFIX,coingecko.com
+DOMAIN-SUFFIX,blockscan.com
+DOMAIN-SUFFIX,basescan.org
+DOMAIN-SUFFIX,arbiscan.io
+DOMAIN-SUFFIX,polygonscan.com
+DOMAIN-SUFFIX,gnosisscan.io
+DOMAIN-SUFFIX,bttcscan.com
+DOMAIN-SUFFIX,ftmscan.com
+DOMAIN-SUFFIX,optimism.io
+DOMAIN-SUFFIX,flashbots.net
+DOMAIN-SUFFIX,x2y2.io
+
+DOMAIN-SUFFIX,openseauserdata.com
+
 
 DOMAIN-SUFFIX,brave.com
 
