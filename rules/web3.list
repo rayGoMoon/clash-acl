@@ -5,6 +5,12 @@ DOMAIN-KEYWORD,ipfs
 DOMAIN-KEYWORD,dweb
 DOMAIN-KEYWORD,pinata
 
+# exchange
+DOMAIN-SUFFIX,uniswap.org
+DOMAIN-SUFFIX,binance.com
+DOMAIN-SUFFIX,rarible.com
+DOMAIN-SUFFIX,looksrare.org
+DOMAIN-SUFFIX,bitfinex.com
 
 # Web3 GateWay
 DOMAIN-KEYWORD,etherscan
