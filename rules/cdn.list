@@ -5,6 +5,7 @@ DOMAIN-KEYWORD,cdn
 
 DOMAIN-KEYWORD,cloudflare
 DOMAIN-KEYWORD,herokucdn
+DOMAIN-KEYWORD,firestore.googleapis.com
 
 DOMAIN-SUFFIX,workers.dev
 
