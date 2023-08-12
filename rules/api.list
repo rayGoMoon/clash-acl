@@ -4,3 +4,6 @@ DOMAIN-SUFFIX,worldnewsapi.com
 DOMAIN-SUFFIX,eventregistry.org
 DOMAIN-SUFFIX,newsapi.ai
 DOMAIN-SUFFIX,newsdata.io
+
+#Google
+DOMAIN-SUFFIX,firestore.googleapis.com
