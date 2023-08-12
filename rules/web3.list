@@ -56,3 +56,6 @@ DOMAIN-SUFFIX,cnbc.com
 DOMAIN-SUFFIX,cointelegraph.com
 DOMAIN-SUFFIX,ft.com
 DOMAIN-SUFFIX,analyticsinsight.net
+
+# NFT Image Generate
+DOMAIN-SUFFIX,clipdrop.co

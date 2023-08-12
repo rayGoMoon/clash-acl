@@ -43,3 +43,7 @@ IP-CIDR,188.64.224.0/21,no-resolve
 
 
 DOMAIN-SUFFIX,jquery.com
+
+# Google APIs
+DOMAIN-SUFFIX,googleapis.cn
+DOMAIN-SUFFIX,googleapis.com
