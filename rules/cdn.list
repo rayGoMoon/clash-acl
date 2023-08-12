@@ -5,7 +5,7 @@ DOMAIN-KEYWORD,cdn
 
 DOMAIN-KEYWORD,cloudflare
 DOMAIN-KEYWORD,herokucdn
-DOMAIN-KEYWORD,firestore.googleapis.com
+
 
 DOMAIN-SUFFIX,workers.dev
 
@@ -22,6 +22,8 @@ DOMAIN-SUFFIX,plyr.io
 
 DOMAIN-SUFFIX,squarespace.com
 DOMAIN-SUFFIX,squarespace-cdn.com
+
+
 
 # YouTube Video
 DOMAIN,yt3.ggpht.com
