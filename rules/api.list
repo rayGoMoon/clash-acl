@@ -5,3 +5,7 @@ DOMAIN-SUFFIX,eventregistry.org
 DOMAIN-SUFFIX,newsapi.ai
 DOMAIN-SUFFIX,newsdata.io
 
+#Google
+DOMAIN-SUFFIX,googleapis.cn
+DOMAIN-SUFFIX,googleapis.com
+
