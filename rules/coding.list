@@ -34,3 +34,7 @@ DOMAIN-SUFFIX,playwright.dev
 DOMAIN-SUFFIX,crawlee.dev
 
 DOMAIN-SUFFIX,pptr.dev
+
+DOMAIN-SUFFIX,kaggle.com
+
+DOMAIN-SUFFIX,huggingface.co
