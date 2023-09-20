@@ -6,8 +6,8 @@ DOMAIN-KEYWORD,cdn
 DOMAIN-KEYWORD,cloudflare
 DOMAIN-KEYWORD,herokucdn
 
-
 DOMAIN-SUFFIX,workers.dev
+DOMAIN-SUFFIX,cloudflarestorage.com
 
 DOMAIN-SUFFIX,seadn.io
 DOMAIN-SUFFIX,static.opensea.io
