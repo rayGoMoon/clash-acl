@@ -74,3 +74,10 @@ DOMAIN-SUFFIX,prompthero.com
 DOMAIN-SUFFIX,sepolia.dev
 DOMAIN-SUFFIX,aave.com
 DOMAIN-SUFFIX,soliditylang.org
+
+#Remix IDE
+DOMAIN-SUFFIX,soliditylang.org
+DOMAIN-SUFFIX,welldonestudio.io
+DOMAIN-SUFFIX,ethereum.org
+DOMAIN-SUFFIX,fontawesome.com
+DOMAIN-SUFFIX,hubspot.com
