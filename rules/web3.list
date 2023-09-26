@@ -69,3 +69,6 @@ DOMAIN-SUFFIX,stablediffusion.fr
 DOMAIN-SUFFIX,openart.ai
 DOMAIN-SUFFIX,civitai.com
 DOMAIN-SUFFIX,prompthero.com
+
+#EVM network
+DOMAIN-SUFFIX,sepolia.dev
