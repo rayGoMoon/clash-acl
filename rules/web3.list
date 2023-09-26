@@ -72,3 +72,5 @@ DOMAIN-SUFFIX,prompthero.com
 
 #EVM network
 DOMAIN-SUFFIX,sepolia.dev
+DOMAIN-SUFFIX,aave.com
+DOMAIN-SUFFIX,soliditylang.org
