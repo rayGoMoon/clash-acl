@@ -42,4 +42,6 @@ DOMAIN-SUFFIX,huggingface.co
 DOMAIN-SUFFIX,skia.org
 
 DOMAIN-SUFFIX,namecheap.com
-DOMAIN-SUFFIX,www.godaddy.com
+DOMAIN-SUFFIX,godaddy.com
+
+DOMAIN-SUFFIX,mozilla.com
