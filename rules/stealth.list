@@ -3,4 +3,5 @@
 # 需要进行反 Bot监测的平台
 DOMAIN-SUFFIX,opensea.io
 DOMAIN-SUFFIX,proton.me
+DOMAIN-SUFFIX,foundation.app
 
